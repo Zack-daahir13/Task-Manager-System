@@ -71,5 +71,5 @@ Extend the login system to allow dynamic user registration.
 Contributions are welcome! If you have suggestions or want to improve this project, feel free to fork the repository and submit a pull request.
 
 📧 Contact
-Developer: Zack Daahir
+Developer: Zack Daahir.
 Email: zackdaahir909@gmail.com
