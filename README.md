@@ -1,6 +1,3 @@
-### **README File ee Mashruucaaga**
-
-```markdown
 # 🚀 **Shaqo Maareeye - Task Manager System**  
 
 A simple yet efficient Task Management System built using **Python** and **Tkinter**. The project is designed to help administrators track employees' tasks and improve workflow management through an intuitive user interface.  
@@ -34,7 +31,6 @@ A simple yet efficient Task Management System built using **Python** and **Tkint
 1. Download or clone the repository:
    ```bash
    git clone <repository_url>
-   ```
 2. Navigate to the project folder and run the Python script:
    ```bash
    python main.py
